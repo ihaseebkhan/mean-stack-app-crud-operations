@@ -1,5 +1,5 @@
 # mean stack app crud operations
-CRUD operations using MongoDB, ExpressJS, AngularJS 7 and Node.js
+Employee management system CRUD operations using MongoDB, ExpressJS, AngularJS 7 and Node.js
 
 
 
